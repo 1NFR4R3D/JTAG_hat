@@ -63,3 +63,5 @@ sdkconfig.old
 .settings/
 
 # Project specific
+# KiCAD
+pcb/JTAG_hat/JTAG_hat-backups/
