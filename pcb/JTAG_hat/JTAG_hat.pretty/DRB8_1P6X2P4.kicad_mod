@@ -470,7 +470,7 @@
   (pad "V" thru_hole circle (at 0.3937 -0.7874) (size 0.508 0.508) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp ea3f531a-7e2e-4e41-a253-b67fdc5a727a))
   (pad "V" thru_hole circle (at 0.3937 0) (size 0.508 0.508) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp b188e98c-0b06-44fd-a929-a2b1fcd6a8c8))
   (pad "V" thru_hole circle (at 0.3937 0.7874) (size 0.508 0.508) (drill 0.254) (layers "*.Cu" "*.Mask") (tstamp 5cac51e6-11f7-41ac-a4c3-dbfafc7e3ffb))
-  (model "C:/Users/kanye/OneDrive/Documents/KiCad/downloaded/misc-3d-models/DRB0008B.stp"
+  (model "${KIPRJMOD}/JTAG_hat.3d/DRB0008B.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

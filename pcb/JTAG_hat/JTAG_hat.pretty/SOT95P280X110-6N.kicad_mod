@@ -49,7 +49,7 @@
   (pad "4" smd rect (at 1.25 0.95 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 194452f2-506e-4bba-9a5b-32fcdbd3c482))
   (pad "5" smd rect (at 1.25 0 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 314cae79-23b9-4cbc-825a-b8d3120f736e))
   (pad "6" smd rect (at 1.25 -0.95 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a0b2b5c9-1d61-473c-9786-078926f994ed))
-  (model "C:/Users/kanye/OneDrive/Documents/KiCad/downloaded/misc-3d-models/DDC0006A.stp"
+  (model "${KIPRJMOD}/JTAG_hat.3d/DDC0006A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

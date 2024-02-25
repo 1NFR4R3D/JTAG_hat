@@ -1,4 +1,4 @@
-22677061860968534
+22683897182832538
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61579,12 +61579,40 @@ BQ29209DRBR
 15
 10
 JTAG_hat
+QFN50P400X500X80-29N-D
+UFD Package 28-Lead Plastic QFN (4mm x 5mm)
+Integrated Circuit
+0
+29
+29
+JTAG_hat
+SOT95P230X110-3N
+SOT -23
+MOSFET (N-Channel)
+0
+3
+3
+JTAG_hat
 SOT95P280X110-6N
 6-Pin Thin SOT23
 Integrated Circuit
 0
 6
 6
+JTAG_hat
+SOTFL65P280X95-8N
+SOT-28FL / ECH8 CASE 318BF ISSUE O
+MOSFET (N-Channel)
+0
+8
+8
+JTAG_hat
+SRP4020FA2R0M
+SRP4020FA-2R0M-1
+Inductor
+0
+2
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
